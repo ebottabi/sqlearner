@@ -8,6 +8,7 @@ Built on:
 * Celery-RabbitMQ
 * Pandas
 * Numpy.
+* Reactjs
 
 Support Algorithms:
 * Classification.
